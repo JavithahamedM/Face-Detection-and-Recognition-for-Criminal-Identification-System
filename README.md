@@ -1,2 +1,2 @@
-# Face-Recognition
-Face Detection and Recognition for Criminal Identification System
+# Face-Detection and Recognition for criminal identification system
+Face recognition can be considered one of the most successful biometric identification methods among several types of biometric identification including fingerprints, DNA, palm print, hand geometry, iris recognition and retina. Face recognition provides biometric identification that utilizes the uniqueness of faces for security purposes. The problem with face recognition using biometric identification is its lengthy process and the accuracy of the results. This paper proposes solutions for a faster face recognition process with accurate results. The proposed face recognition process was done using a Machine Learning. This improved face recognition approach was able to recognize multiple faces with high accuracy level.
